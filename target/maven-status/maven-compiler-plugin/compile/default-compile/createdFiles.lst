@@ -1,0 +1,5 @@
+com/wdongyu/dataset/WordCount$UserLogReducer.class
+com/wdongyu/dataset/MRUserLog$IntWritableDecreasingComparator.class
+com/wdongyu/dataset/MRUserLog.class
+com/wdongyu/dataset/WordCount.class
+com/wdongyu/dataset/WordCount$UserLogMapper.class
